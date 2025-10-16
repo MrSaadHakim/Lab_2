@@ -7,6 +7,8 @@ Example:
 Double gives small precision errors,  
 BigDecimal gives exact financial values.
 
+---
+
 Author: Saad Hakim  
 ID: 61551  
 Group: 7  
